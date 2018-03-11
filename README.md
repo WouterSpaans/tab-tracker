@@ -4,7 +4,7 @@ Based upon tutorial found at: https://www.youtube.com/watch?v=Fa4cRMaTDUI
 
 # Environment:
 
-Things you'll nned:
+Things you'll need:
 
 * [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win)
 
