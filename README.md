@@ -61,12 +61,14 @@ vue create client
 git status
 git add --all
 git commit -m "init the vuejs application using vue-cli"
+git push
 ```
 
+# Start coding
+```
 cd client
 npm run serve
 ```
 * [Open localhost in browser](http://localhost:8080/#/)
 
-# Start coding
 Open visual studio code
